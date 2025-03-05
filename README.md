@@ -1,5 +1,5 @@
 # BRAT Generator
-
+![BRAT Generator Banner](https://github.com/camilafresitaa/BratGenerator/banner.jpg)
 A simple Python application using Tkinter to generate text formatted like the cover of Charli xcx's **BRAT** album.  
 The app allows users to input up to 40 characters, which are displayed in large text in real-time.
 
