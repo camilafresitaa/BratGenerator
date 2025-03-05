@@ -17,6 +17,6 @@ The app allows users to input up to 40 characters, which are displayed in large 
 2. Run the script:
 
    ```
-   python brat_generator.py
+   python brat.py
    ```
 3. Enter up to 40 characters in the input field, and see the text appear in large font on the screen.
